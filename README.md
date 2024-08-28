@@ -38,7 +38,7 @@ Feel free to contribute to this repository by submitting pull requests with impr
 
 ## Contact
 
-For any questions or feedback, you can reach me at (mail:tanishqpalaskar036@gmail.com).
+For any questions or feedback, you can reach me at (tanishqpalaskar036@gmail.com).
 
 ---
 
