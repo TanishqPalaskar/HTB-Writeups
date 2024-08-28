@@ -13,7 +13,7 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 ## Machines
 
 - **[Runner](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Runner-Writeup.md):** A write-up for the Runner machine.
-- **[Blurry]((https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md)):** A write-up for the Blurry machine.
+- **[Blurry](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md):** A write-up for the Blurry machine.
 - **[Greenhorn](link-to-greenhorn-writeup.md):** A write-up for the Greenhorn machine.
 - **[Boardlight](link-to-boardlight-writeup.md):** A write-up for the Boardlight machine.
 - **[Cap](link-to-cap-writeup.md):** A write-up for the Cap machine.
