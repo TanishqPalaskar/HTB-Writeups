@@ -12,16 +12,16 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 
 ## Machines
 
-- **[Runner](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Runner-Writeup.md):** A write-up for the Runner machine.
-- **[Blurry](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md):** A write-up for the Blurry machine.
-- **[Greenhorn](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Greenhorn-Writeup.md):** A write-up for the Greenhorn machine.
-- **[Boardlight](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/BoardLight-Writeup.md):** A write-up for the Boardlight machine.
-- **[Cap](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Cap-Writeup.md):** A write-up for the Cap machine.
-- **[Usage](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Usage-Writeup.md):** A write-up for the Usage machine.
-- **[Sea](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Sea-Writeup.md):** A write-up for the Sea machine.
-- **[Editorial](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Editorial-Writeup.md):** A write-up for the Editorial machine.
-- **[PermX](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/PermX-Writeup.md):** A write-up for the PermX machine.
-- **[Resource](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Resource-Writeup.md):** A write-up for the Resource machine.
+- **[Runner](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Runner-Writeup.md):** Linux (Medium)
+- **[Blurry](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md):** Linux (Medium)
+- **[Greenhorn](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Greenhorn-Writeup.md):** Linux (Easy)
+- **[Boardlight](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/BoardLight-Writeup.md):** Linux (Easy)
+- **[Cap](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Cap-Writeup.md):** Linux (Easy)
+- **[Usage](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Usage-Writeup.md):** Linux (Easy)
+- **[Sea](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Sea-Writeup.md):** Linux (Easy)
+- **[Editorial](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Editorial-Writeup.md):** Linux (Easy)
+- **[PermX](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/PermX-Writeup.md):** Linux (Easy)
+- **[Resource](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Resource-Writeup.md):** Linux (Medium)
 
 ## How to Use
 
