@@ -35,11 +35,3 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 ## Contribution
 
 Feel free to contribute to this repository by submitting pull requests with improvements or additional write-ups. Your contributions are welcome!
-
-## Contact
-
-For any questions or feedback, you can reach me at (tanishqpalaskar036@gmail.com).
-
----
-
-Feel free to adjust the sections and links based on your specific needs and the content of your repository.
