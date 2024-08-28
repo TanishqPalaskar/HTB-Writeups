@@ -1,7 +1,3 @@
-Here’s a template for a `README.md` file that you can use for your GitHub repository where you’re storing your Hack The Box write-ups:
-
----
-
 # Hack The Box Write-Ups
 
 Welcome to my collection of Hack The Box (HTB) write-ups! This repository contains detailed write-ups for various HTB machines that I've worked on as part of my cybersecurity studies and practice.
@@ -16,8 +12,8 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 
 ## Machines
 
-- **[Runner](/HTB-Writeups/blob/main/Blurry-Writeup.md)):** A write-up for the Runner machine.
-- **[Blurry](link-to-blurry-writeup.md):** A write-up for the Blurry machine.
+- **[Runner](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Runner-Writeup.md):** A write-up for the Runner machine.
+- **[Blurry]((https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md)):** A write-up for the Blurry machine.
 - **[Greenhorn](link-to-greenhorn-writeup.md):** A write-up for the Greenhorn machine.
 - **[Boardlight](link-to-boardlight-writeup.md):** A write-up for the Boardlight machine.
 - **[Cap](link-to-cap-writeup.md):** A write-up for the Cap machine.
