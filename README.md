@@ -14,20 +14,20 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 
 - **[Runner](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Runner-Writeup.md):** A write-up for the Runner machine.
 - **[Blurry](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Blurry-Writeup.md):** A write-up for the Blurry machine.
-- **[Greenhorn](link-to-greenhorn-writeup.md):** A write-up for the Greenhorn machine.
-- **[Boardlight](link-to-boardlight-writeup.md):** A write-up for the Boardlight machine.
-- **[Cap](link-to-cap-writeup.md):** A write-up for the Cap machine.
-- **[Usage](link-to-usage-writeup.md):** A write-up for the Usage machine.
-- **[Sea](link-to-sea-writeup.md):** A write-up for the Sea machine.
-- **[Editorial](link-to-editorial-writeup.md):** A write-up for the Editorial machine.
-- **[PermX](link-to-permx-writeup.md):** A write-up for the PermX machine.
-- **[Resource](link-to-resource-writeup.md):** A write-up for the Resource machine.
+- **[Greenhorn](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Greenhorn-Writeup.md):** A write-up for the Greenhorn machine.
+- **[Boardlight](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/BoardLight-Writeup.md):** A write-up for the Boardlight machine.
+- **[Cap](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Cap-Writeup.md):** A write-up for the Cap machine.
+- **[Usage](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Usage-Writeup.md):** A write-up for the Usage machine.
+- **[Sea](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Sea-Writeup.md):** A write-up for the Sea machine.
+- **[Editorial](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Editorial-Writeup.md):** A write-up for the Editorial machine.
+- **[PermX](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/PermX-Writeup.md):** A write-up for the PermX machine.
+- **[Resource](https://github.com/TanishqPalaskar/HTB-Writeups/blob/main/Resource-Writeup.md):** A write-up for the Resource machine.
 
 ## How to Use
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/htb-writeups.git
+   git clone https://github.com/TanishqPalaskarHTB-Writeups.git
    ```
 2. **Navigate to the Write-Up:**
    - Open the corresponding Markdown file for the machine you're interested in.
@@ -36,13 +36,9 @@ Hack The Box is an online platform that provides a variety of virtual machines a
 
 Feel free to contribute to this repository by submitting pull requests with improvements or additional write-ups. Your contributions are welcome!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-For any questions or feedback, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, you can reach me at (mailto:tanishqpalaskar036@example.com).
 
 ---
 
